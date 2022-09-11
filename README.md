@@ -1,24 +1,12 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+データ型	  種類
+integer	  数値（整数）
+decimal	  数値（精度の高い小数）
+float	    数値（浮動小数）
+string	  文字（短い文字列）
+text	    文字（長い文字列）
+date	    日付
+datetime	日時
+time	    時刻
+timestamp	タイムスタンプ
+binary	  バイナリ
+boolean	  真偽
